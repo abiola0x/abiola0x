@@ -20,20 +20,18 @@
 
 <h2>📜Cerifications:</h2>
 
-<b>ALX Africa</b> | Lagos, Nigeria
-- Front-End Web Development Certificate, <i>Currently Enrolled</i>
-- [Professional Foundations Certificate](https://savanna.alxafrica.com/certificates/xyzn93Pe6S)
+- <b>ALX Africa</b> | Lagos, Nigeria
+  - Front-End Web Development Certificate, <i>Currently Enrolled</i>
+  - Professional Foundations Certificate
 
-<b>Meta</b> | Coursera
-- Front-end Developer Professional Certificate
-- Introduction to HTML and CSS
-- Programming with JavaScript
-- Version Control
+- <b>Meta</b> | Coursera
+  - Front-end Developer Professional Certificate
+  - Introduction to HTML and CSS
+  - Programming with JavaScript
+  - Version Control
 
-<b>University of Michigan</b> | Coursera
-- Web Design for Everybody Specialization—November 10, 2023 <i>(Grade: 93.3%)</i>
-
-
+- <b>University of Michigan</b> | Coursera
+  - Web Design for Everybody Specialization
 
 <h2> 🤳 Connect with me:</h2>
 
